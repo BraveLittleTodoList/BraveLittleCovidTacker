@@ -4,6 +4,5 @@
 #### Main goal of the project was to fetch from an API and utilize React Hooks.
 
 
-<div style="width:150px; height:100px"> 
-<a href="https://imgur.com/UDE4bxv"><img src="https://i.imgur.com/UDE4bxv.png" title="source: imgur.com"/></a>
-</div>
+
+<img src="https://i.imgur.com/UDE4bxv.png" title="source: imgur.com" style="height: 25px; width:25px;"/>
