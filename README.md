@@ -1,2 +1,2 @@
-# [BraveLittleCovidTracker](https://bravelittletodolist.github.io/BraveLittleCovidTracker/")
+# [BraveLittleCovidTracker]("https://bravelittletodolist.github.io/BraveLittleCovidTracker/")
 
