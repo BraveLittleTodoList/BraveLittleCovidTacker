@@ -5,4 +5,5 @@
 
 
 
-<img src="https://i.imgur.com/UDE4bxv.png" title="source: imgur.com" style="height: 50px; width:50px;"/>
+![Global Tracker](https://i.imgur.com/UDE4bxv.png)
+![Country Tracker](https://i.imgur.com/is3z2q6.png)
