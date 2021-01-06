@@ -5,5 +5,7 @@
 
 
 
-![Global Tracker](https://i.imgur.com/UDE4bxv.png)
-![Country Tracker](https://i.imgur.com/is3z2q6.png)
+
+
+<img src="https://i.imgur.com/UDE4bxv.png" width="500px">
+<img src="https://i.imgur.com/is3z2q6.png" width="500px">
